@@ -1,0 +1,2 @@
+# automator
+Automator of Mac
